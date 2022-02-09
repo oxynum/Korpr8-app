@@ -1,0 +1,6 @@
+{
+	"appId": "com.korpr8.app",
+	"appName": "Korpr8",
+	"webDir": "dist",
+	"bundledWebRuntime": false
+}
