@@ -1,0 +1,135 @@
+// Icons
+// -------------------------
+
+.korpr8-bookmark:before,
+.korpr8-bookmark-2:before,
+.korpr8-bookmark-3:before,
+.korpr8-close:before,
+.korpr8-close-2:before,
+.korpr8-connect:before,
+.korpr8-edit:before,
+.korpr8-edit-2:before,
+.korpr8-ok:before,
+.korpr8-ok-2:before,
+.korpr8-trash:before,
+.korpr8-share-3:before,
+.korpr8-settings:before,
+.korpr8-check-circle:before,
+.korpr8-check-circle-2:before,
+.korpr8-tick-box:before,
+.korpr8-tick-box-2:before,
+.korpr8-unavailable:before,
+.korpr8-about:before,
+.korpr8-box:before,
+.korpr8-box-2:before,
+.korpr8-home:before,
+.korpr8-info:before,
+.korpr8-menu:before,
+.korpr8-menu-2:before,
+.korpr8-menu-3:before,
+.korpr8-done:before,
+.korpr8-done-2:before,
+.korpr8-sun:before,
+.korpr8-idea:before,
+.korpr8-speech-bubble:before,
+[data-icons8]:before {
+  @include icons8-font;
+}
+
+[data-icons8]:before {
+  content: attr(data-icons8);
+}
+
+.korpr8-bookmark:before {
+  content: $icons8-var-bookmark;
+}
+.korpr8-bookmark-2:before {
+  content: $icons8-var-bookmark-2;
+}
+.korpr8-bookmark-3:before {
+  content: $icons8-var-bookmark-3;
+}
+.korpr8-close:before {
+  content: $icons8-var-close;
+}
+.korpr8-close-2:before {
+  content: $icons8-var-close-2;
+}
+.korpr8-connect:before {
+  content: $icons8-var-connect;
+}
+.korpr8-edit:before {
+  content: $icons8-var-edit;
+}
+.korpr8-edit-2:before {
+  content: $icons8-var-edit-2;
+}
+.korpr8-ok:before {
+  content: $icons8-var-ok;
+}
+.korpr8-ok-2:before {
+  content: $icons8-var-ok-2;
+}
+.korpr8-trash:before {
+  content: $icons8-var-trash;
+}
+.korpr8-share-3:before {
+  content: $icons8-var-share-3;
+}
+.korpr8-settings:before {
+  content: $icons8-var-settings;
+}
+.korpr8-check-circle:before {
+  content: $icons8-var-check-circle;
+}
+.korpr8-check-circle-2:before {
+  content: $icons8-var-check-circle-2;
+}
+.korpr8-tick-box:before {
+  content: $icons8-var-tick-box;
+}
+.korpr8-tick-box-2:before {
+  content: $icons8-var-tick-box-2;
+}
+.korpr8-unavailable:before {
+  content: $icons8-var-unavailable;
+}
+.korpr8-about:before {
+  content: $icons8-var-about;
+}
+.korpr8-box:before {
+  content: $icons8-var-box;
+}
+.korpr8-box-2:before {
+  content: $icons8-var-box-2;
+}
+.korpr8-home:before {
+  content: $icons8-var-home;
+}
+.korpr8-info:before {
+  content: $icons8-var-info;
+}
+.korpr8-menu:before {
+  content: $icons8-var-menu;
+}
+.korpr8-menu-2:before {
+  content: $icons8-var-menu-2;
+}
+.korpr8-menu-3:before {
+  content: $icons8-var-menu-3;
+}
+.korpr8-done:before {
+  content: $icons8-var-done;
+}
+.korpr8-done-2:before {
+  content: $icons8-var-done-2;
+}
+.korpr8-sun:before {
+  content: $icons8-var-sun;
+}
+.korpr8-idea:before {
+  content: $icons8-var-idea;
+}
+.korpr8-speech-bubble:before {
+  content: $icons8-var-speech-bubble;
+}

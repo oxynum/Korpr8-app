@@ -1,0 +1,178 @@
+/*!
+ * Icon Font Favorites-9480002fd5
+ * Made with love by Icons8 [ https://icons8.com/ ] using webfont [ https://github.com/itgalaxy/webfont ]
+ *
+ * Contacts:
+ *    [ https://icons8.com/contact ]
+ *
+ * Follow Icon8 on
+ *    Twitter [ https://twitter.com/icons_8 ]
+ *    Facebook [ https://www.facebook.com/Icons8 ]
+ *    Google+ [ https://plus.google.com/+Icons8 ]
+ *    GitHub [ https://github.com/icons8 ]
+ */
+
+@font-face {
+  font-family: "Favorites-9480002fd5";
+  src: url("../fonts/Favorites-9480002fd5.eot");
+  src: url("../fonts/Favorites-9480002fd5.eot?#iefix") format("embedded-opentype"),
+  url("../fonts/Favorites-9480002fd5.woff2") format("woff2"),
+  url("../fonts/Favorites-9480002fd5.woff") format("woff"),
+  url("../fonts/Favorites-9480002fd5.ttf") format("truetype"),
+  url("../fonts/Favorites-9480002fd5.svg#font") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@media screen and (-webkit-min-device-pixel-ratio: 0) {
+  @font-face {
+    font-family: "Favorites-9480002fd5";
+    src: url("../fonts/Favorites-9480002fd5.svg#Favorites-9480002fd5") format("svg");
+  }
+}
+
+[data-icons8]:before {
+  content: attr(data-icons8);
+}
+
+.korpr8-bookmark:before,
+.korpr8-bookmark-2:before,
+.korpr8-bookmark-3:before,
+.korpr8-close:before,
+.korpr8-close-2:before,
+.korpr8-connect:before,
+.korpr8-edit:before,
+.korpr8-edit-2:before,
+.korpr8-ok:before,
+.korpr8-ok-2:before,
+.korpr8-trash:before,
+.korpr8-share-3:before,
+.korpr8-settings:before,
+.korpr8-check-circle:before,
+.korpr8-check-circle-2:before,
+.korpr8-tick-box:before,
+.korpr8-tick-box-2:before,
+.korpr8-unavailable:before,
+.korpr8-about:before,
+.korpr8-box:before,
+.korpr8-box-2:before,
+.korpr8-home:before,
+.korpr8-info:before,
+.korpr8-menu:before,
+.korpr8-menu-2:before,
+.korpr8-menu-3:before,
+.korpr8-done:before,
+.korpr8-done-2:before,
+.korpr8-sun:before,
+.korpr8-idea:before,
+.korpr8-speech-bubble:before,
+.icons8,
+[data-icons8]:before {
+  display: inline-block;
+  font-family: "Favorites-9480002fd5";
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  line-height: 1;
+  text-decoration: inherit;
+  text-rendering: optimizeLegibility;
+  text-transform: none;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
+  font-smoothing: antialiased;
+}
+
+
+.korpr8-bookmark:before {
+  content: "\f100";
+}
+.korpr8-bookmark-2:before {
+  content: "\f101";
+}
+.korpr8-bookmark-3:before {
+  content: "\f102";
+}
+.korpr8-close:before {
+  content: "\f103";
+}
+.korpr8-close-2:before {
+  content: "\f104";
+}
+.korpr8-connect:before {
+  content: "\f105";
+}
+.korpr8-edit:before {
+  content: "\f106";
+}
+.korpr8-edit-2:before {
+  content: "\f107";
+}
+.korpr8-ok:before {
+  content: "\f108";
+}
+.korpr8-ok-2:before {
+  content: "\f109";
+}
+.korpr8-trash:before {
+  content: "\f10a";
+}
+.korpr8-share-3:before {
+  content: "\f10b";
+}
+.korpr8-settings:before {
+  content: "\f10c";
+}
+.korpr8-check-circle:before {
+  content: "\f10d";
+}
+.korpr8-check-circle-2:before {
+  content: "\f10e";
+}
+.korpr8-tick-box:before {
+  content: "\f10f";
+}
+.korpr8-tick-box-2:before {
+  content: "\f110";
+}
+.korpr8-unavailable:before {
+  content: "\f111";
+}
+.korpr8-about:before {
+  content: "\f112";
+}
+.korpr8-box:before {
+  content: "\f113";
+}
+.korpr8-box-2:before {
+  content: "\f114";
+}
+.korpr8-home:before {
+  content: "\f115";
+}
+.korpr8-info:before {
+  content: "\f116";
+}
+.korpr8-menu:before {
+  content: "\f117";
+}
+.korpr8-menu-2:before {
+  content: "\f118";
+}
+.korpr8-menu-3:before {
+  content: "\f119";
+}
+.korpr8-done:before {
+  content: "\f11a";
+}
+.korpr8-done-2:before {
+  content: "\f11b";
+}
+.korpr8-sun:before {
+  content: "\f11c";
+}
+.korpr8-idea:before {
+  content: "\f11d";
+}
+.korpr8-speech-bubble:before {
+  content: "\f11e";
+}

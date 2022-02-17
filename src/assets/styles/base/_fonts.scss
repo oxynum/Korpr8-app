@@ -1,0 +1,29 @@
+@font-face {
+    font-family: 'NunitoRegular';
+    src: url('assets/fonts/Nunito-Regular.ttf');
+}
+
+@font-face {
+    font-family: 'NunitoSemiBold';
+    src: url('assets/fonts/Nunito-SemiBold.ttf');
+}
+
+@font-face {
+    font-family: 'NunitoLight';
+    src: url('assets/fonts/Nunito-Light.ttf');
+}
+
+.title-1 {
+    font-size: 21px;
+    font-family: 'NunitoSemiBold';
+}
+
+.text-basic {
+    font-size: 16px;
+    font-family: 'NunitoLight';
+}
+
+.text-label {
+    font-size: 16px;
+    font-family: 'NunitoLight';
+}
